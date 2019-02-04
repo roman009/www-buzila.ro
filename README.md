@@ -1,3 +1,3 @@
 # buzila.ro
 
-website service container
+public website service container
